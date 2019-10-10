@@ -1,3 +1,7 @@
 test origin push
 test new branch
-test merge conflict master
+<<<<<<< HEAD
+test confict merge feature1
+=======
+test confict merge feature1
+>>>>>>> feature1
