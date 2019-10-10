@@ -1,2 +1,3 @@
 test origin push
 test new branch
+test merge conflict master
